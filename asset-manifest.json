@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Vazifa_bajar/static/css/main.25ef29c6.css",
+    "main.css": "/Vazifa_bajar/static/css/main.177b8192.css",
     "main.js": "/Vazifa_bajar/static/js/main.dd9f3b5b.js",
     "index.html": "/Vazifa_bajar/index.html",
-    "main.25ef29c6.css.map": "/Vazifa_bajar/static/css/main.25ef29c6.css.map",
+    "main.177b8192.css.map": "/Vazifa_bajar/static/css/main.177b8192.css.map",
     "main.dd9f3b5b.js.map": "/Vazifa_bajar/static/js/main.dd9f3b5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.25ef29c6.css",
+    "static/css/main.177b8192.css",
     "static/js/main.dd9f3b5b.js"
   ]
 }
